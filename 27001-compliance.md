@@ -78,3 +78,41 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of ISO 27001 certifications and technical competencies of the team. |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance.           |
+| Target clientele type  | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of provider reputation and sectors served.               |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is ISO 27001 compliance?**
+   ISO 27001 compliance is an international standard for information security management, ensuring the protection of sensitive data.
+
+2. **When and why is it necessary?**
+   It's necessary to protect sensitive data, maintain customer trust and comply with current regulations.
+
+3. **What is the average cost?**
+   The cost varies based on company size and specific needs, with a typical range between S$700 and S$7000/year.
+
+4. **How do you choose the right provider?**
+   Evaluate technical competencies, certifications, support offered and provider reputation.
+
+5. **What are the important certifications?**
+   ISO 27001 and ISO/IEC 27001 certifications are fundamental to ensure compliance and information security.
+
+6. **What are the benefits of ISO 27001 compliance?**
+   Improves information security, increases customer trust and ensures regulatory compliance.
+
+7. **How can a partner help with ISO 27001 compliance?**
+   An expert partner can guide the company through the certification process, providing continuous support and personalized solutions.
+
+8. **What are common challenges in ISO 27001 compliance?**
+   Challenges include documentation management, implementation of security controls and maintaining compliance over time.
+
+9. **How does ISO 27001 compliance integrate with other regulations?**
+   ISO 27001 compliance can be integrated with other regulations like GDPR and NIS2 to ensure complete data protection.
+
+10. **Which sectors benefit most from ISO 27001 compliance?**
+    Sectors like finance, healthcare and technology benefit greatly from ISO 27001 compliance, thanks to advanced data protection.
