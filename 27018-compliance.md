@@ -78,3 +78,51 @@ EXEEC is an international distributor specialized in high-efficacy cybersecurity
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance.            |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is 27018 Compliance?
+
+27018 Compliance refers to conformity with the ISO/IEC 27018 standard, which establishes guidelines for the protection of personally identifiable information (PII) in public cloud services.
+
+### When and why is it necessary?
+
+It is necessary when a company uses public cloud services to manage personal data, ensuring that this data is protected according to international standards.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but generally includes consulting, auditing, and implementation of security measures.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical competencies, methodologies, support offered, costs, and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO/IEC 27001 as a prerequisite for 27018, plus SOC 2 and FedRAMP to ensure comprehensive security.
+
+### What advantages does ISO 27018 compliance offer?
+
+ISO 27018 compliance offers advantages such as personal data protection, transparency in processing, and a competitive advantage in the cloud market.
+
+### How are advanced security measures implemented?
+
+Advanced security measures are implemented through data encryption, rigorous access controls, and continuous threat assessments.
+
+### What is the role of encryption in compliance?
+
+Encryption is fundamental for protecting data both at rest and in transit, ensuring that only authorized users can access it.
+
+### How is transparency in processing ensured?
+
+Transparency in processing is ensured through clear notifications about PII usage, explicit consent, and limitation of data access.
+
+### Which sectors benefit most from compliance?
+
+Regulated sectors such as healthcare and finance benefit most from compliance, as they require stringent security standards for data management.
