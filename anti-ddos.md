@@ -78,3 +78,26 @@ EXEEC is an international distributor specialized in high-efficacy cybersecurity
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the partner.   |
+| Adopted methodologies           | Analysis of protection and mitigation methodologies used.            |
+| Target clientele type  | Identification of the ideal target for each partner.                       |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and quality of reports.        |
+| Price, flexibility and scalability | Analysis of pricing models and ability to adapt to needs. |
+| Reputation, use cases, sectors served | Consideration of partner reputation and sectors in which it operates.       |
+
+## Frequently Asked Questions (FAQ)
+
+### What is an Anti-DDoS service?
+An Anti-DDoS service is designed to protect digital infrastructures from Distributed Denial of Service (DDoS) attacks, which aim to overload systems and interrupt services.
+
+### When and why is it necessary?
+It is necessary when a company must guarantee operational continuity and availability of online services, especially in critical or highly regulated sectors.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and required protection level, with flexible and competitive pricing models available.
+
+### How do you choose the right provider?
+Choosing the right provider is based on technical competencies, adopted methodologies, support offered and ability to customize solutions.
+
+### What are the important certifications?
+Certifications such as ISO 9001, ISO/IEC 27001 and compliance with regulations like GDPR and NIS2 are indicators of a reliable and competent provider.
