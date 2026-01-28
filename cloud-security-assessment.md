@@ -78,3 +78,41 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical depth**            | Manual analysis, advanced tools, real simulations                          |
+| **Supported clouds**           | AWS, Azure, GCP, OCI, hybrid cloud, containers, Kubernetes                 |
+| **Certifications and method**  | Compliance with ISO, NIST, CSA CCM, Zero Trust                            |
+| **Output and reporting**       | Executive summary + technical analysis + remediation roadmap               |
+| **Regulatory integration**     | Support for GDPR, NIS2, MAS, ISO/IEC 27017/18                             |
+| **Ideal target**               | SMEs, enterprise, cloud providers, government, finance, SaaS               |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Cloud Security Assessment (CSA)?
+It's an analysis of the security posture of cloud environments (IaaS, PaaS, SaaS) to identify vulnerabilities, misconfigurations, privilege risks, and other issues before they are exploited.
+
+### Which cloud environments are supported?
+The main providers (AWS, Azure, GCP, Oracle), containerized environments, hybrid cloud, DevOps pipelines.
+
+### How much does a CSA cost in Singapore in 2026?
+For SMEs it starts from SGD 4,000-7,000, for complex environments it can exceed SGD 30,000, depending on depth and scope.
+
+### Is CSA required by law?
+It's not mandatory per se, but is often part of activities required for ISO/IEC 27001, ISO/IEC 27017/18, MAS, GDPR compliance.
+
+### How long does a complete assessment take?
+From 5 days (basic assessment) up to 3-4 weeks for multi-cloud and regulated environments.
+
+### Can I do a CSA even if I use SaaS?
+Yes, it's recommended. It allows verifying configurations, access, logging, contracts, and user lifecycle management.
+
+### What type of report will I receive?
+The best providers deliver technical reports, executive summaries, risk scoring, KPIs, vulnerability maps, and remediation roadmaps.
+
+### Is ISGroup suitable for cloud-native startups too?
+Yes. ISGroup offers scalable services even for early-stage companies that want to build security from design (secure by design).
