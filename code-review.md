@@ -78,3 +78,35 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of Code Review methodologies used.                         |
+| Target clientele type  | Identification of the ideal target for each provider.                      |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Code Review?
+
+Code Review is the process of reviewing source code by one or more developers to identify errors, improve code quality, and ensure compliance with standards.
+
+### When and why is it necessary?
+
+Code Review is necessary during software development to prevent errors, improve security, and ensure code quality.
+
+### What is the average cost?
+
+The average cost of Code Review varies based on project complexity and chosen provider, but generally is based on hourly rates or predefined packages.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on specific project needs, available budget, and required competencies. It's important to evaluate certifications, methodologies, and support offered.
+
+### What are the important certifications?
+
+Important certifications for Code Review include ISO 9001, ISO/IEC 27001, and other sector-specific certifications like OWASP and NIST.
