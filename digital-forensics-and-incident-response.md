@@ -78,3 +78,39 @@ TIM provides DFIR on TIM Cloud environments and critical IT/OT systems for publi
 EXEEC is an international distributor of advanced cybersecurity technologies, specialized in Digital Forensics And Incident Response solutions for large organizations. With vertical competencies and a strong focus on compliance, EXEEC supports partners with high-impact technical solutions and continuous specialized support.
 
 ---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Response time**              | 24/7, guaranteed SLAs, remote/on-site intervention                         |
+| **Forensic capabilities**      | Evidence collection, legal validity, chain of custody                       |
+| **Areas covered**              | Endpoint, server, mobile, cloud, OT, SaaS, containers                      |
+| **Certifications**             | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                       |
+| **Post-incident support**      | Recovery, hardening, communication, regulatory reporting                    |
+| **Vertical sectors**           | Finance, health, public administration, cloud, manufacturing, energy       |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is DFIR?
+DFIR (Digital Forensics & Incident Response) is the set of practices to respond to, analyze and resolve computer incidents, collecting evidence and reconstructing the attack.
+
+### When is it necessary?
+Immediately after an attack (ransomware, phishing, data breach), during a suspicious anomaly or for post-incident audits.
+
+### Does ISGroup also intervene at night or on weekends?
+Yes. ISGroup's DFIR service is active 24/7, with rapid escalation and immediate support, even on-site.
+
+### Is it possible to use evidence in legal proceedings?
+Yes, if collected correctly. ISGroup guarantees chain of custody and validated collection.
+
+### Which environments are covered?
+PCs, servers, cloud (AWS, Azure, GCP), SaaS, OT/ICS networks, mobile, containers, backups.
+
+### How much does a DFIR intervention cost?
+It depends on complexity and timing. Starting from S$4,000 for basic investigations up to over S$40,000 for large-scale incidents or those with regulatory implications.
+
+### Is a cyber insurance policy required?
+Not mandatory, but recommended. ISGroup collaborates with insurers to provide valid forensic documentation.
