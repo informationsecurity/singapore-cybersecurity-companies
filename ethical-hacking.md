@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of certifications and technical skills of the team.       |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for testing.            |
+| Target clientele type   | Identification of the ideal target for each supplier.                    |
+| Support, SLA, reporting quality | Evaluation of support offered and quality of reports.                  |
+| Price, flexibility and scalability | Analysis of costs and flexibility of offered solutions.               |
+| Reputation, use cases, sectors served | Consideration of reputation and sectors in which the supplier operates.     |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ethical hacking?
+
+Ethical hacking is the practice of testing computer systems to identify and resolve security vulnerabilities.
+
+### When and why is it necessary?
+
+It's necessary when an organization wants to prevent cyber attacks and ensure the security of its data.
+
+### What is the average cost?
+
+The cost varies based on system complexity and test scope, but generally starts from a few thousand dollars.
+
+### How do you choose the right supplier?
+
+Consider skills, certifications, methodologies, support and supplier reputation.
+
+### What are the important certifications?
+
+Certifications like OSCP, CEH, and CISSP are highly recognized in the ethical hacking sector.
+
+### What are the benefits of an artisanal approach?
+
+An artisanal approach offers tailor-made solutions, greater attention to detail and a more thorough analysis of vulnerabilities.
+
+### How does ethical hacking integrate with regulatory compliance?
+
+Ethical hacking helps ensure that organizations comply with security regulations, such as GDPR and NIS2, by identifying and resolving vulnerabilities.
+
+### What tools are commonly used?
+
+Tools like Metasploit, Burp Suite and OWASP ZAP are commonly used for penetration testing.
+
+### How can ethical hacking improve business security?
+
+By identifying and resolving vulnerabilities, ethical hacking reduces the risk of cyber attacks and improves overall security.
+
+### What is the role of threat intelligence in ethical hacking?
+
+Threat intelligence provides information on emerging threats, helping to improve the effectiveness of penetration testing.
