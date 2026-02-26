@@ -78,3 +78,54 @@ Microsoft offers training on its own products and technologies, such as Azure an
 EXEEC is an international distributor specialized in highly effective training solutions, designed to address advanced threats and protect complex infrastructures. It is the ideal partner for those who want to innovate their training offering with selected and tested solutions.
 
 ---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies           | Analysis of training methodologies used.                          |
+| Target customer type  | Identification of the ideal target for each provider.                      |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.  |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.       |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is training?
+Training is a continuous learning process that aims to develop specific skills and knowledge, essential for personal and professional improvement.
+
+### When and why is it necessary?
+Training is necessary when you want to acquire new skills, update existing ones or adapt to new technologies and regulations. It is essential to maintain competitiveness in the job market.
+
+### What is the average cost?
+The average cost of training varies based on the type of course, duration and chosen provider. It can range from a few hundred to several thousand dollars.
+
+### How do you choose the right supplier?
+Choosing the right supplier requires an analysis of your needs, evaluation of the provider's skills, quality of support offered and reputation in the sector.
+
+### What are the important certifications?
+Important certifications vary depending on the sector, but often include ISO 9001, ISO/IEC 27001, and specific certifications for particular technologies or methodologies.
+
+### Does ISGroup issue certificates?
+Yes. All ISGroup courses include a certificate of participation, useful for audits and compliance demonstration.
+
+### Is it possible to do customized training?
+Absolutely. ISGroup customizes content, duration, language and methods based on the business context.
+
+### Are there hands-on technical courses?
+Yes. ISGroup offers workshops with simulations, guided exploits, live code review, and mini-red teaming.
+
+### Is the training valid for compliance purposes?
+Yes. Training and awareness are required by ISO/IEC 27001, GDPR, DORA, NIS2 and other regulations.
+
+### How much does a course cost?
+It depends on number of participants, duration and content. Starting from about $1,000 for basic modules, up to complete training projects from $5,000 and up.
+
+### Are there courses for non-technical users?
+Yes. User awareness is one of the pillars: phishing, passwords, safe use of digital tools.
+
+### Does ISGroup offer remote courses too?
+Yes. All courses are available both online and in the classroom, with live instructors and interactive materials.
