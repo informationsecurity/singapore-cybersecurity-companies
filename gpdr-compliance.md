@@ -78,3 +78,51 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of partner certifications and technical skills. |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for compliance.     |
+| Target clientele type   | Identification of the ideal target for each partner.                      |
+| Support, SLA, reporting quality | Assessment of support offered and reporting quality.       |
+| Price, flexibility and scalability | Analysis of costs and flexibility of offered solutions.             |
+| Reputation, use cases, sectors served | Assessment of partner reputation and sectors served.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is GDPR compliance?
+
+GDPR compliance refers to adherence to General Data Protection Regulation standards, which regulate the protection of personal data in the European Union.
+
+### When and why is it necessary?
+
+It is necessary for any company that handles personal data of EU citizens, to ensure data protection and avoid sanctions.
+
+### What is the average cost?
+
+The average cost varies based on company size and complexity of required solutions, with prices ranging from €1,500 to €15,000.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier depends on factors such as technical skills, support offered, solution flexibility, and partner reputation.
+
+### What are the important certifications?
+
+Certifications such as ISO 9001, ISO/IEC 27001 and other sector-specific ones are important to ensure partner quality and reliability.
+
+### What privacy management tools are recommended?
+
+Tools like OneTrust and TrustArc are market leaders for privacy management and GDPR compliance.
+
+### How can I ensure data protection?
+
+By implementing adequate technical and organizational measures, such as encryption, access management, and continuous monitoring.
+
+### What are the common challenges in GDPR compliance?
+
+Common challenges include consent management, data mapping, and responding to data subject access requests (DSAR).
+
+### What are the advantages of a tailor-made approach?
+
+A tailor-made approach offers personalized solutions that adapt to the company's specific needs, ensuring greater effectiveness.
+
+### How can I improve my compliance strategy?
+
+By collaborating with expert partners, regularly updating privacy policies, and training staff on data protection.
