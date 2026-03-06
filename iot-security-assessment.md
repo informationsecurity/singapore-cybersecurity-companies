@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of assessment methodologies used.                          |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is IoT Security Assessment?
+
+IoT Security Assessment is a process of evaluating the security of IoT devices, networks, and infrastructures to identify vulnerabilities and mitigate risks.
+
+### When and why is it necessary?
+
+It's necessary when implementing IoT devices in critical or regulated environments to ensure security and regulatory compliance.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but it's essential to evaluate the quality-price ratio.
+
+### How do you choose the right provider?
+
+You choose by evaluating technical competencies, methodologies, support, reputation, and costs, ensuring the provider aligns with specific needs.
+
+### What are the important certifications?
+
+Certifications like ISO 27001, IEC 62443, OSCP, CEH, and CISSP are important to guarantee competencies and compliance.
+
+### What are the advantages of a tailor-made approach?
+
+A tailor-made approach offers personalized solutions that perfectly adapt to the company's specific needs, guaranteeing optimal protection.
+
+### How to ensure regulatory compliance?
+
+Regulatory compliance is ensured through the adoption of recognized standards and consultation with compliance experts.
+
+### What is the importance of detailed reporting?
+
+Detailed reporting provides a clear description of vulnerabilities, potential impact, and remediation recommendations, facilitating risk management.
+
+### What are the main challenges in IoT security?
+
+Main challenges include vulnerability management, data protection, and regulatory compliance in a continuously evolving environment.
+
+### How to integrate IoT security with business operations?
+
+Integration is achieved through security solutions that align with business operations, guaranteeing protection without compromising operational efficiency.
