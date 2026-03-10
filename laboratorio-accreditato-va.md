@@ -78,3 +78,57 @@ Engineering offers custom IT solutions with a focus on innovation and digital tr
 
 EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations with critical environments.
 
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the partner. |
+| Adopted methodologies           | Analysis of methodologies used to ensure service quality. |
+| Target clientele type  | Identification of the ideal target for each partner.                      |
+| Support, SLA, reporting quality | Evaluation of support offered and reporting quality.        |
+| Price, flexibility and scalability | Analysis of costs and flexibility of offered solutions.             |
+| Reputation, use cases, sectors served | Evaluation of reputation and sectors served by the partner.             |
+
+## Frequently Asked Questions (FAQ)
+
+### What is an Accredited Laboratory VA?
+
+An Accredited Laboratory VA is a laboratory that has obtained official accreditation from recognized bodies, ensuring compliance with international standards such as ISO/IEC 17025.
+
+### When and why is it necessary?
+
+It is necessary when verification of technical competence and reliability of laboratory results is required, especially in regulated sectors.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of required services and the level of customization of offered solutions.
+
+### How do you choose the right supplier?
+
+You choose by evaluating technical competencies, certifications, reputation and the ability to offer custom solutions.
+
+### What are the important certifications?
+
+Important certifications include ISO/IEC 17025, CLIA, CAP and others internationally recognized to ensure quality and reliability of results.
+
+### What is the importance of accreditation?
+
+Accreditation ensures technical competence and compliance with international standards, ensuring reliable and high-quality results.
+
+### How to verify a laboratory's accreditation?
+
+Accreditation can be verified through official websites of accreditation bodies such as ACCREDIA or others internationally recognized.
+
+### What are the advantages of an accredited laboratory?
+
+Advantages include guarantee of accurate results, regulatory compliance and greater trust from clients and regulatory authorities.
+
+### Which sectors benefit most from an accredited laboratory?
+
+Sectors such as food, pharmaceutical, environmental and medical benefit most from an accredited laboratory to ensure product quality and safety.
+
+### How does accreditation influence result quality?
+
+Accreditation ensures that laboratories follow rigorous quality standards, improving accuracy and reliability of results.
