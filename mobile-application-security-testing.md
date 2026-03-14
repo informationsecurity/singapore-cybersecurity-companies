@@ -78,3 +78,53 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical skills and certifications** | Assessment of technical skills and certifications held.                    |
+| **Adopted methodologies**      | Analysis of testing methodologies used.                                     |
+| **Target clientele type**      | Identification of the ideal target for each provider.                      |
+| **Support, SLA, reporting quality** | Assessment of support offered, SLAs, and report quality.                   |
+| **Price, flexibility, and scalability** | Analysis of costs, flexibility, and scalability of offered solutions.      |
+| **Reputation, use cases, sectors served** | Assessment of provider reputation and sectors in which they operate.        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Mobile Application Security Testing?
+Mobile Application Security Testing (MAST) is the process of analyzing and evaluating mobile applications to identify and mitigate security vulnerabilities.
+
+### When and why is it necessary?
+It's necessary when developing or using mobile applications that handle sensitive data, to prevent data breaches and ensure regulatory compliance.
+
+### What is the average cost?
+The average cost varies based on application complexity and required depth level, but generally starts from a few thousand dollars.
+
+### How do you choose the right provider?
+Choosing the right provider involves evaluating technical skills, certifications, testing methodology, and the ability to provide continuous support.
+
+### What are the important certifications?
+Important certifications include ISO/IEC 27001, OSCP, CEH, and others that attest to competence and professionalism in the cybersecurity field.
+
+### Does ISGroup also test APIs connected to the app?
+Yes. The approach is end-to-end: app, APIs, backend, sessions, identity, and cloud.
+
+### Is the test compatible with MASVS and OWASP?
+Yes. All ISGroup tests follow MASVS L1-L2 levels, OWASP Mobile Top 10, and industry standards.
+
+### How much does an app test cost?
+Between $3,500 and $12,000 depending on number of features, APIs, platforms, and required techniques.
+
+### Is the test invasive? Can it cause malfunctions?
+No. All activities are simulated in a controlled test environment. Possibility to operate on dedicated builds (test builds).
+
+### How long does it take?
+From 1 to 3 weeks based on depth, features, backend, and APIs.
+
+### Can the report be used for GDPR or PCI audits?
+Yes. The ISGroup report is detailed, traceable, and ready for auditors, CISOs, DPOs, and tenders.
+
+### Do you also offer retesting after patches?
+Yes. It's included free of charge within 30 days of the test, on critical issues.
