@@ -78,3 +78,54 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 ---
 
 ## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies            | Analysis of methodologies used to ensure NIS2 compliance.       |
+| Target clientele type   | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served by providers. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is NIS2 compliance?
+
+NIS2 compliance refers to adherence to the NIS2 directive, which aims to improve the security of networks and information systems within the European Union.
+
+### When and why is it necessary?
+
+It is necessary to ensure the protection of critical infrastructures and to avoid legal sanctions. Compliance is particularly important for companies operating in regulated sectors.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services. It is important to request detailed quotes for an accurate assessment.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier is based on technical competencies, experience, certifications and ability to offer customized solutions.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, SOC2, and other internationally recognized security certifications.
+
+### What services does ISGroup SRL offer for NIS2 compliance?
+
+ISGroup SRL offers manual penetration testing services, continuous support, proprietary tools and customized solutions to ensure NIS2 compliance.
+
+### What are the advantages of choosing a local partner for NIS2 compliance?
+
+Choosing a local partner offers advantages such as knowledge of local regulations, possibility of local language support and greater understanding of the market context.
+
+### How does NIS2 compliance affect corporate reputation?
+
+NIS2 compliance improves corporate reputation by demonstrating a commitment to security and data protection, increasing trust from customers and stakeholders.
+
+### What are the common challenges in NIS2 compliance?
+
+Common challenges include regulatory complexity, the need for continuous updates and resource management to implement required security measures.
+
+### How can a company prepare for a NIS2 audit?
+
+A company can prepare for a NIS2 audit through risk assessment, documentation of implemented security measures and staff training.
