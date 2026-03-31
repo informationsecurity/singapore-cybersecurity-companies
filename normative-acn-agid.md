@@ -78,3 +78,53 @@ Engineering is a leader in technological innovation and IT security, offering ad
 
 **Limitation:** Approach more oriented towards technology than personalization, ideal for those seeking advanced technological solutions.
 
+### 10. [EXEEC](https://exeec.com/): International distributor specialized in advanced cybersecurity solutions
+
+EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. With a portfolio of next-generation vendors, EXEEC supports MSSPs, system integrators and VARs with high-impact technical solutions and continuous specialized support.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technical competencies and certifications** | Assessment of technical competencies and certifications held                |
+| **Methodologies adopted**     | Analysis of methodologies used to ensure compliance and security             |
+| **Target clientele type**     | Identification of the type of clientele the services are aimed at           |
+| **Support, SLA, reporting quality** | Assessment of support offered, SLAs and reporting quality                |
+| **Price, flexibility and scalability** | Analysis of costs, flexibility and scalability of offered solutions      |
+| **Reputation, use cases, sectors served** | Assessment of reputation, use cases and sectors served                  |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is ACN/AGID Compliance?
+ACN/AGID Compliance is a set of regulations and guidelines designed to ensure IT security and data protection in organizations.
+
+### When and why is it necessary?
+It's necessary to ensure compliance with security and data protection regulations, reducing the risk of violations and ensuring operational continuity.
+
+### What is the average cost?
+The average cost varies based on the complexity of solutions and specific organizational needs.
+
+### How do you choose the right supplier?
+Choosing the right supplier is based on criteria such as technical competencies, methodologies adopted, support offered and reputation.
+
+### What are the important certifications?
+Important certifications include ISO 27001, SOC 2 and other internationally recognized security certifications.
+
+### What are the benefits of a holistic approach to cybersecurity?
+A holistic approach integrates consulting, technological solutions and training to ensure complete compliance with ACN/AGID regulations.
+
+### How can a company ensure continuous compliance?
+Through continuous support and regulatory updates, a company can ensure continuous compliance with ACN/AGID requirements.
+
+### What are the benefits of continuous monitoring?
+Continuous monitoring of critical assets ensures real-time protection and rapid response to threats.
+
+### How can the risk of non-compliance be reduced?
+A proactive approach based on best practices reduces risks related to regulatory compliance.
+
+### What are the main challenges in ACN/AGID compliance?
+Main challenges include the complexity of regulations, the need for continuous updates and the integration of advanced technological solutions.
