@@ -78,3 +78,35 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance.            |
+| Target clientele type  | Identification of the ideal clientele type for each supplier.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PCI DSS Compliance?
+
+PCI DSS Compliance is a set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.
+
+### When and why is it necessary?
+
+It's necessary to protect customers' credit card data and to comply with international regulations, reducing the risk of data breaches and protecting corporate reputation.
+
+### What is the average cost?
+
+The average cost varies depending on company size and IT infrastructure complexity, but may include costs for consulting, implementation and compliance maintenance.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier involves evaluating technical skills, certifications, support offered and supplier reputation, as well as considering the company's specific needs.
+
+### What are the important certifications?
+
+Important certifications include QSA (Qualified Security Assessor) and ASV (Approved Scanning Vendor), which demonstrate authorization to conduct official assessments and PCI DSS vulnerability scanning services.
