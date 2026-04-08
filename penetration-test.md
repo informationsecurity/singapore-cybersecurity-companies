@@ -78,3 +78,40 @@ EXEEC is an international distributor specialized in high-effectiveness cybersec
 
 ---
 
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Target**                     | Web apps, mobile, network, cloud, API, IoT, AD, OT                         |
+| **Method**                     | Manual, real TTP, Red Team, APT simulation                                 |
+| **Supported compliance**       | NIS2, DORA, ISO 27001, PCI DSS, GDPR                                       |
+| **Certifications**             | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                     |
+| **Output**                     | Technical report, executive, remediation, audit evidence                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Penetration Test?
+A manual test that simulates cyber attacks on corporate infrastructures to identify real compromise paths.
+
+### Does ISGroup also perform cloud testing?
+Yes. AWS, Azure, GCP, SaaS, hybrid environments, zero-trust segments.
+
+### Is the report valid for auditors and board?
+Yes. Dual output: technical for IT/security, executive for managers, DPO, auditors.
+
+### How much does a Penetration Test cost?
+From ~$4,500 for simple environments to $20,000+ for full-scope red teaming.
+
+### How long does it take?
+From 1 to 4 weeks, based on scope, environment, type of attack.
+
+### Can the test cause service disruptions?
+It's agreed to be non-invasive. ISGroup also offers "safe" mode and test windows.
+
+### Is it useful for public tenders?
+Yes. The ISGroup report is documented, signed, referenced and ready to be attached to PA tenders or regulatory audits.
+
+### Is the service recurring?
+Yes. ISGroup also proposes PenTest-as-a-Service with continuous posture review.
