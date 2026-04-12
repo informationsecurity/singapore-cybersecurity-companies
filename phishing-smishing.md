@@ -78,3 +78,48 @@ PwC monitors attacks and provides support on social engineering incidents.
 
 Engineering provides advanced technological solutions for cybersecurity, with a focus on innovation and integration.
 
+**Limit:** More oriented towards technological innovation than customization, ideal for those seeking cutting-edge technological solutions.
+
+### 10. [EXEEC](https://exeec.com/): International distributor specialized in advanced cybersecurity solutions
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Detection**                | Similar domains, spoofing, fake apps, live phishing                            |
+| **Takedown**                 | Hosting, DNS, social, app store                                             |
+| **Simulations**              | Phishing, smishing, QRishing, voice phishing                               |
+| **Training**                 | User awareness, CISO tabletop, incident simulation                      |
+| **Integration**              | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is an anti-phishing service?
+A system that detects, prevents and reacts to phishing attempts against an organization, its users or customers.
+
+### Does ISGroup also perform takedown of fake domains?
+Yes. It sends requests to registrars, hosting, social media, marketplaces, app stores.
+
+### Is it possible to simulate attacks to train employees?
+Yes. ISGroup offers simulated campaigns (email, SMS, app) with personalized reports.
+
+### How much does the service cost?
+Starting from ~S$4,000/year for SMEs. Enterprise solutions with 24/7 monitoring and SOC from S$9,000/year.
+
+### What does a phishing simulation include?
+Branded email, fake landing page, click/form tracking, HR alert, behavioral report.
+
+### How long does a real attack analysis take?
+ISGroup provides complete forensic analysis in 24-72h, with IOCs detail, IP, C2, hash, log.
+
+### Does the service integrate with SOC?
+Yes. Real or simulated phishing events are integrable in XDR/SIEM.
+
+### What happens if a user really clicks?
+The simulation is "safe". If real, ISGroup activates incident response and containment with DFIR support.
