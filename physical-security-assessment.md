@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held by the provider. |
+| Adopted methodologies           | Analysis of methodologies used for assessment and their effectiveness.   |
+| Target clientele type  | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of provider reputation, use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Physical Security Assessment?
+
+Physical Security Assessment is a process of evaluating an organization's physical vulnerabilities, aimed at identifying and mitigating risks associated with physical intrusions and other threats.
+
+### When and why is it necessary?
+
+It is necessary when an organization wants to ensure the security of its physical assets, protect sensitive information and comply with security regulations.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of the assessment, the size of the organization and specific requirements, but generally ranges between 10,000 and 50,000 USD.
+
+### How do you choose the right provider?
+
+Choosing the right provider is based on criteria such as technical skills, adopted methodologies, support offered, reputation and cost.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, CPP, CISSP and other industry certifications that guarantee the competence and professionalism of the team.
+
+### What are the advantages of an integrated approach?
+
+An integrated approach combines physical security with cybersecurity, ensuring complete and coordinated protection against threats.
+
+### How is physical security integrated with cybersecurity?
+
+Physical security is integrated with cybersecurity through the adoption of advanced methodologies that combine theoretical analysis, practical simulations and verification of regulatory compliance.
+
+### Which sectors are most at risk?
+
+The most at-risk sectors include energy, transportation, healthcare and logistics, where physical security is crucial for protecting critical assets.
+
+### How is the effectiveness of a Physical Security Assessment measured?
+
+The effectiveness of a Physical Security Assessment is measured through the reduction of identified vulnerabilities, improvement of security measures and compliance with regulations.
+
+### What are the best practices for a Physical Security Assessment?
+
+Best practices include adopting standardized methodologies, simulating real attacks and verifying regulatory compliance.
