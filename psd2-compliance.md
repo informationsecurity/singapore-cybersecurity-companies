@@ -78,3 +78,51 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of certifications and technical skills of the partner. |
+| Adopted methodologies            | Analysis of methodologies and frameworks used to ensure compliance. |
+| Target clientele type   | Identification of the ideal target for each partner.                      |
+| Support, SLA, reporting quality | Evaluation of support offered and quality of reporting.       |
+| Price, flexibility and scalability | Analysis of costs and flexibility of solutions offered.             |
+| Reputation, use cases, sectors served | Evaluation of reputation and sectors served by the partner.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PSD2?
+
+PSD2 is a European directive that aims to improve the security of online payments and promote innovation in financial services.
+
+### When and why is it necessary?
+
+PSD2 compliance is necessary for all companies offering payment services in Europe, to ensure transaction security and customer data protection.
+
+### What is the average cost?
+
+The average cost for PSD2 compliance varies depending on company size and complexity of required solutions.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier depends on various factors, including technical skills, certifications, support offered, and partner reputation.
+
+### What are the important certifications?
+
+Important certifications for PSD2 compliance include ISO 9001, ISO/IEC 27001, and other internationally recognized security certifications.
+
+### What are the benefits of PSD2 compliance?
+
+PSD2 compliance offers benefits such as reduced fraud risk, access to new market opportunities, and increased customer trust.
+
+### How does PSD2 affect digital payment services?
+
+PSD2 promotes innovation in digital payment services, enabling access to new technologies and improving transaction security.
+
+### What are the common challenges in PSD2 compliance?
+
+Common challenges include data security management, implementation of strong authentication solutions, and compliance with continuously evolving regulations.
+
+### How does PSD2 support open banking?
+
+PSD2 supports open banking by enabling secure access to banking data and promoting collaboration between financial institutions and payment service providers.
+
+### What opportunities does PSD2 offer?
+
+PSD2 offers opportunities such as access to new markets, innovation in financial services, and the ability to offer improved user experiences.
