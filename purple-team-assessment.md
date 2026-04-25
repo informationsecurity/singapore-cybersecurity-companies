@@ -78,3 +78,42 @@ Engineering is a provider of advanced IT solutions, with a strong focus on the I
 
 EXEEC is an international distributor specialized in high-effectiveness cybersecurity solutions, ideal for large organizations with critical environments.
 
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Offensive scenarios**        | APT, ransomware, insider, exfiltration, initial access                     |
+| **Framework**                  | MITRE ATT&CK, D3FEND, CTID, TIBER-EU                                       |
+| **Measurability**              | Detection coverage, MTTD, MTTR, gap analysis                               |
+| **Blue Team interaction**      | Workshops, debrief, tuning, knowledge transfer                             |
+| **Output**                     | Technical + executive report, improvement indicators                        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Purple Team Assessment?
+It's an activity that combines simulated attack and real defense to test how well the company detects and responds to cyber attacks.
+
+### Does ISGroup work together with the internal SOC?
+Yes. Each scenario is coordinated with the defensive team, analyzed and used to improve detection and response.
+
+### Is it useful for regulations like NIS2 or MAS?
+Yes. It's considered "best practice" to validate technical measures, coverage and resilience.
+
+### How long does a project last?
+From 5 to 15 days, depending on the number of scenarios and technologies to test.
+
+### Do you need an internal SOC?
+No, but it's recommended. ISGroup can also operate with MSSP, external SOCs or XDR services.
+
+### What's the average cost?
+From ~SGD 15,000 to SGD 40,000 for enterprise environments. Includes simulations, analysis and workshops.
+
+### Is it destructive or does it impact production?
+No. Attacks are controlled, coordinated and safe. They can be performed in staging environments or isolated production.
+
+### Can the report be shared with auditors or board?
+Yes. Technical + executive output with KPIs, lessons learned, improvement plans.
