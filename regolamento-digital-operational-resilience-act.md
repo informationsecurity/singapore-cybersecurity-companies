@@ -78,3 +78,31 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for compliance.      |
+| Target clientele type   | Identification of the ideal clientele type for each supplier.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.    |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is the Digital Operational Resilience Act (DORA) Regulation?
+
+DORA is a European Union regulation that aims to ensure the digital operational resilience of financial institutions, requiring them to adopt cybersecurity measures and risk management.
+
+### When and why is it necessary?
+
+DORA is necessary to protect critical infrastructures and ensure operational continuity of financial institutions, reducing the risk of interruptions due to cyber threats.
+
+### What is the average cost?
+
+The average cost for DORA compliance varies based on the complexity of the organization and the solutions implemented, but can be significant to ensure adequate protection.
+
+### How do you choose the right supplier?
+
+The choice of the right supplier should be based on technical skills, sector experience, quality of support and ability to offer tailor-made solutions.
+
+### What are the important certifications?
+
+Important certifications for DORA compliance include ISO 27001, SOC 2 and PCI DSS, which guarantee high standards of security and risk management.
