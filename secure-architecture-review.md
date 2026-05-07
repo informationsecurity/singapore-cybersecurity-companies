@@ -78,3 +78,66 @@ NTT DATA offers Secure Architecture Review services with a focus on innovation a
 
 **Limitation:** More oriented towards digital transformation than traditional security, ideal for those seeking innovation.
 
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced cybersecurity technologies
+
+EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, designed to face advanced threats and protect complex infrastructures. It's the ideal partner for those who want to innovate their security offering with selected and tested solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Scope**                      | Cloud, hybrid, OT, SaaS, DevOps, legacy                                   |
+| **Framework**                  | Zero Trust, CIS Controls, NIST, DORA, ISO 27001                           |
+| **Output**                     | Technical + executive report, diagrams, gap analysis, remediation roadmap |
+| **Approach**                   | Threat-based, attacker-centric, threat modeling                           |
+| **Integration**                | DevSecOps, cloud-native, compliance                                       |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Secure Architecture Review?
+
+A technical and strategic analysis of an organization's IT/cloud architecture to identify weaknesses, improve security and support compliance.
+
+### Does ISGroup also work on public cloud environments?
+
+Yes. AWS, Azure, GCP, hybrid and cloud-native environments (Kubernetes, Terraform, CI/CD).
+
+### How long does a SAR project take?
+
+From 2 to 5 weeks, based on architectural complexity and available documentation.
+
+### Is the report valid for audits (ISO, DORA)?
+
+Yes. The ISGroup report is structured to support compliance audits and regulatory requirements.
+
+### What is the difference between SAR and Penetration Testing?
+
+SAR analyzes the design and configuration of architectures, while Penetration Testing simulates real attacks on running systems.
+
+### Can SAR be integrated with DevSecOps?
+
+Yes. ISGroup integrates SAR into CI/CD pipelines and provides recommendations for secure development.
+
+### What are the main benefits of a SAR?
+
+- Identification of design vulnerabilities
+- Improvement of security posture
+- Regulatory compliance
+- Risk reduction
+- Optimization of security investments
+
+### How much does a Secure Architecture Review cost?
+
+Costs vary based on complexity, scope and depth of analysis. Contact providers for personalized quotes.
+
+### What documentation is needed for a SAR?
+
+Architecture diagrams, network configurations, security policies, access matrices, and technical documentation.
+
+### How often should a SAR be performed?
+
+It's recommended annually or after significant architectural changes, new deployments or regulatory updates.
