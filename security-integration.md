@@ -78,3 +78,40 @@ Accenture offers innovative and scalable security solutions, ideal for companies
 
 **Limitation:** More oriented towards scalability and innovation than specific protection against advanced threats.
 
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced cybersecurity technologies
+
+EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technologies covered**       | SIEM, XDR, SOAR, IAM, CMDB, EDR, API security                            |
+| **Compliance integration**     | Regulations, ISO/IEC 27001, GDPR                                          |
+| **Automation**                 | Playbooks, runbooks, incident enrichment, unified logging                  |
+| **DevSecOps**                  | CI/CD, IaC, secrets management, test integration                          |
+| **Strategic output**           | KPIs, dashboards, reports, compliance readiness                           |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Security Integration?
+It's the activity of connecting technologies, processes and compliance to have centralized, automated and risk-oriented security.
+
+### Does ISGroup integrate only proprietary solutions?
+No. It works with existing stacks (Elastic, Microsoft, Splunk, SentinelOne, Tenable, etc.) and makes them interoperable.
+
+### Is it useful for compliance?
+Yes. It helps comply with regulations (ISO 27001) with logs, evidence, traceability, workflows and KPIs.
+
+### How much does it cost?
+Projects from ~S$12,000 to S$50,000, based on tools, environments, compliance and number of integrations.
+
+### How long does it take?
+From 3 to 8 weeks. It's replicable or manageable as a service (MSSP, SOC, vCISO).
+
+### Can ISGroup also help with DevSecOps?
+Yes. It integrates security into DevOps pipelines, scanners, code repos, CI/CD, IAC, and secrets/API management.
