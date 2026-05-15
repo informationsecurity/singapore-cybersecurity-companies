@@ -78,3 +78,40 @@ Engineering offers innovative cybersecurity solutions, with a focus on advanced 
 ### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
 
 EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technologies**               | SIEM, SOAR, XDR, EDR, threat hunting, TIP                                  |
+| **Covered environments**       | IT, OT, cloud, SaaS, DevOps, PA, fintech, telco                            |
+| **Compliance**                 | NIS2, GDPR, ISO/IEC 27001, local regulations                               |
+| **Services offered**           | Detection, incident response, DFIR, hunting, dashboard, forensic           |
+| **Flexibility**                | SOC-as-a-Service, hybrid SOC, MDR, specific verticalizations               |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a SOC-as-a-Service?
+A managed service that provides continuous monitoring of security events, alert management, incident response and compliance support.
+
+### Does ISGroup also provide incident support?
+Yes. With DFIR (Digital Forensics and Incident Response) service, investigative, legal and communication support.
+
+### How much does a SOC cost?
+From ~S$2,000/month for SMEs, up to S$20,000/month for complex and regulated environments.
+
+### How long does activation take?
+From 2 to 6 weeks. ISGroup offers personalized onboarding and tuning.
+
+### Is it useful for NIS2 or GDPR?
+Yes. SOC is required for detection, response, logs, evidence and resilience.
+
+### Does ISGroup offer dashboards and reports?
+Yes. CISO, SOC Manager, Executive dashboards. Includes KPIs and key incidents.
+
+### Is it integrable with DevSecOps or cloud-native environments?
+Yes. ISGroup SOC supports integration on AWS, Azure, CI/CD, GitLab, containers, APIs.
