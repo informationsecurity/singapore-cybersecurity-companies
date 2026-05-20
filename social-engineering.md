@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of qualifications and certifications of the security team. |
+| Adopted methodologies           | Analysis of testing methodologies and frameworks used.            |
+| Target clientele type  | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support level and quality of reports provided.     |
+| Price, flexibility and scalability | Analysis of costs and scalability of offered solutions.               |
+| Reputation, use cases, sectors served | Examination of provider reputation and sectors they operate in.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is social engineering?
+
+Social engineering is a psychological manipulation technique used to deceive people and obtain confidential information or access to protected systems.
+
+### When and why is it necessary?
+
+It's necessary when you want to test an organization's resilience against social engineering-based attacks, improving employee awareness and training.
+
+### What is the average cost?
+
+The average cost varies based on test complexity and organization size, but can start from a few thousand dollars.
+
+### How do you choose the right provider?
+
+Choosing a provider with proven experience, recognized certifications and an ethical and legal approach is fundamental to ensure security and compliance.
+
+### What are the important certifications?
+
+Certifications like OSCP, CEH and CISSP are important to guarantee the technical competence of the security team.
+
+### What are the most effective testing methodologies?
+
+Methodologies based on frameworks like OWASP, NIST and PTES are among the most effective to ensure complete and compliant testing.
+
+### How is social engineering integrated with other security strategies?
+
+Social engineering can be integrated with security awareness programs and attack simulations to improve overall resilience.
+
+### What are the legal risks associated with social engineering?
+
+Legal risks include privacy and regulatory violations if tests are not conducted with explicit consent and necessary transparency.
+
+### How do you measure the effectiveness of a social engineering test?
+
+Effectiveness is measured through assessment of identified vulnerabilities and improvement of employee awareness and security practices.
+
+### What are the best practices for social engineering prevention?
+
+Best practices include continuous employee training, implementation of rigorous security policies and use of threat detection technologies.
