@@ -78,3 +78,61 @@ Capgemini offers software assurance lifecycle solutions that integrate innovatio
 
 **Limitation:** More oriented towards digital transformation and automation, less suitable for those seeking artisanal solutions.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations seeking high-impact technical solutions and continuous specialized support.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.                      |
+| Adopted methodologies            | Analysis of methodologies used for software assurance lifecycle.            |
+| Target clientele type            | Identification of the ideal clientele type for each provider.               |
+| Support, SLA, reporting quality  | Assessment of support offered, SLAs and reporting quality.                  |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.                |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.                      |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Software Assurance Lifecycle?
+
+Software Assurance Lifecycle (SAL) is a process that ensures software is developed, deployed and maintained securely and in compliance with regulations.
+
+### When and why is it necessary?
+
+SAL is necessary to protect applications from cyber threats and ensure regulatory compliance, especially in regulated sectors.
+
+### What is the average cost?
+
+The average cost varies based on project complexity and specific company needs, but is generally proportional to the value of protection offered.
+
+### How do you choose the right provider?
+
+Choosing the right provider requires an analysis of technical skills, certifications, support offered and the ability to customize solutions.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, NIST, and other internationally recognized security certifications.
+
+### What are the benefits of a DevSecOps approach?
+
+The DevSecOps approach integrates security into every phase of software development, improving agility and reducing security risks.
+
+### How can a company ensure regulatory compliance?
+
+A company can ensure regulatory compliance by adopting standardized security practices and keeping necessary certifications up to date.
+
+### What are the common challenges in SAL?
+
+Common challenges include vulnerability management, regulatory compliance and integrating security into development processes.
+
+### How is SAL effectiveness measured?
+
+SAL effectiveness is measured through security metrics, regular audits and vulnerability assessments.
+
+### What are the future trends in SAL?
+
+Future trends include automation of security processes, AI integration and adoption of DevSecOps practices.
