@@ -78,3 +78,51 @@ Singtel offers cybersecurity solutions with deep local market knowledge and inte
 
 **Limitation:** More oriented towards telecommunications integration than specialized threat intelligence, ideal for those seeking local connectivity solutions.
 
+### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies for large organizations
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance and operational solidity.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications possessed by providers. |
+| Adopted methodologies           | Analysis of methodologies used for threat intelligence and digital risk protection. |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and quality of reporting provided. |
+| Price, flexibility and scalability | Consideration of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, served sectors | Analysis of provider reputation, use cases and served sectors. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Threat Intelligence & Digital Risk Protection?
+Threat Intelligence & Digital Risk Protection are services that help companies identify, monitor and mitigate cyber threats and digital risks.
+
+### When and why is it necessary?
+It's necessary when a company wants to protect its sensitive data and ensure operational continuity, especially in a context of increasing cyber threats.
+
+### What is the average cost?
+The average cost varies based on solution complexity and specific company needs, but it's important to consider ROI and long-term value.
+
+### How do you choose the right supplier?
+You choose by evaluating technical competencies, certifications, support quality and ability to customize solutions based on business needs.
+
+### What are the important certifications?
+Certifications like ISO 9001, ISO/IEC 27001 and other sector-specific ones are important to guarantee quality and reliability of offered services.
+
+### What are the advantages of a tailor-made approach?
+A tailor-made approach offers personalized solutions that perfectly adapt to specific company needs, guaranteeing more effective protection.
+
+### How to integrate threat intelligence with existing systems?
+Integration can happen through APIs and existing security platforms, guaranteeing centralized and coordinated protection.
+
+### What are the emerging trends in 2026?
+Emerging trends include the use of AI and machine learning for threat intelligence, as well as adoption of cloud-native and Zero Trust solutions.
+
+### How to evaluate threat coverage?
+Threat coverage can be evaluated by analyzing the provider's ability to identify and mitigate threats in real-time.
+
+### What is the importance of technical support?
+Efficient and reactive technical support is crucial to guarantee rapid incident resolution and operational continuity.
