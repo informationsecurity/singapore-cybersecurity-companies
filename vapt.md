@@ -78,3 +78,42 @@ PwC combines VAPT services with business consulting to offer integrated security
 
 TIM offers technical tests on networks, public services, cloud and national platforms.
 
+**Limit:** More oriented to public sector and telco, less suitable for private enterprise environments.
+
+### 10. [EXEEC](https://exeec.com/): VAPT-as-a-Service for MSSP and Integrators
+
+EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions. It supports large organizations with critical environments, offering vertical competencies and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technical approach**          | Manual, black/gray/white box, exploit-based                                |
+| **Testable assets**            | IT, cloud, OT, IoT, web, mobile, API, SaaS                                  |
+| **Output**                     | Technical + executive report, evidence, CVSS rating, remediation roadmap      |
+| **Compliance**                 | NIS2, DORA, ISO 27001, GDPR, PCI DSS, PSD2                             |
+| **Remediation**                | Fix support, post-patch testing, technical validation                        |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Penetration Test?
+It's a controlled simulation of a hacker attack to verify the resistance of an IT system.
+
+### Does ISGroup execute real or automated tests?
+It executes **entirely manual tests**, based on offensive competencies and real exploit chains.
+
+### Is the report valid for ISO or compliance audits?
+Yes. It includes technical evidence, impacts, recommendations, CVE and executive sections.
+
+### How much does a VAPT cost?
+From ~5,000€ to over 25,000€, based on scope, assets, test type and required compliance.
+
+### How long does a test last?
+From 5 to 20 days, with possibility of cyclical tests, on DevSecOps and cloud-native environments.
+
+### Is ISGroup accredited?
+Yes. ISO 9001, ISO/IEC 27001 certified. Executes tests compliant with OWASP, PTES, NIST standards.
