@@ -78,3 +78,30 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ## Evaluation Criteria
 
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications possessed.        |
+| Adopted methodologies            | Analysis of methodologies used to ensure security.                         |
+| Target clientele type           | Identification of the type of clientele the services are aimed at.        |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality.                |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.             |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.                  |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Virtual CISO?
+A Virtual CISO (vCISO) is an IT security expert who provides strategic and operational consulting to companies, without being a full-time employee.
+
+### When and why is it necessary?
+A vCISO is necessary when a company needs advanced security competencies but cannot afford a full-time CISO. It is ideal for managing risks, compliance and security strategies.
+
+### What is the average cost?
+The cost of a vCISO varies based on the complexity of services required, but is generally more economical compared to hiring a full-time CISO.
+
+### How do you choose the right provider?
+Choosing the right provider depends on the specific needs of the company, the provider's competencies and their ability to adapt to the business context.
+
+### What are the important certifications?
+Certifications like CISSP, CISM and ISO 27001 are important to ensure that the provider has the necessary competencies to manage IT security.
