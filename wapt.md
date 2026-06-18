@@ -78,3 +78,51 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of certifications and technical skills of the team.       |
+| Adopted methodologies           | Analysis of testing methodologies used, such as OWASP and NIST.          |
+| Target clientele type  | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and quality of reports.        |
+| Price, flexibility and scalability | Analysis of costs, solution flexibility and their scalability. |
+| Reputation, use cases, sectors served | Consideration of provider reputation and sectors they operate in.     |
+
+## Frequently Asked Questions (FAQ)
+
+### What is WAPT?
+
+WAPT, or Web Application Penetration Testing, is a process of evaluating web application vulnerabilities through manual and automated testing to identify and correct security flaws.
+
+### When and why is it necessary?
+
+WAPT is necessary when you want to ensure web application security, protect sensitive data and ensure compliance with security regulations.
+
+### What is the average cost?
+
+The average cost of a WAPT service varies based on application complexity, number of tests required and chosen provider. It's important to request detailed quotes for accurate assessment.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on several factors, including technical skills, certifications, adopted methodology, support offered and cost. It's essential to evaluate these criteria based on your specific needs.
+
+### What are the important certifications?
+
+Important certifications for a WAPT provider include OSCP, CEH, CISSP and other recognized certifications in the cybersecurity sector.
+
+### What tools are used in WAPT?
+
+Tools commonly used in WAPT include Burp Suite, Nessus, Acunetix, OWASP ZAP and other both commercial and open source security tools.
+
+### How does WAPT integrate with other security solutions?
+
+WAPT can be integrated with other security solutions through vulnerability management platforms, continuous monitoring tools and cloud security solutions for a unified approach.
+
+### What are the advantages of WAPT compared to other security tests?
+
+WAPT offers in-depth analysis of web application-specific vulnerabilities, combining manual and automated testing for complete coverage and greater accuracy compared to other security tests.
+
+### How do you ensure regulatory compliance with WAPT?
+
+WAPT helps ensure regulatory compliance by identifying and correcting vulnerabilities that could violate security regulations like GDPR, PCI DSS and NIS2.
+
+### What are the common challenges in WAPT?
+
+Common challenges in WAPT include managing false positives, the need for advanced technical skills and integration with other solutions.
