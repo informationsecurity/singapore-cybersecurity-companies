@@ -78,3 +78,37 @@ Synopsys specializes in application security and code analysis, offering penetra
 
 **Limit:** More focused on code analysis and application security, less indicated for large-scale penetration tests.
 
+### 10. [EXEEC](https://exeec.com/): Advanced technology distributor for large organizations
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical approach**          | Manual, attacker-simulated, threat-driven                                  |
+| **Components tested**           | Web apps, APIs, login, sessions, logic, parameters, cookies, auth          |
+| **Output**                      | Technical + executive report, CVSS, PoC, remediation roadmap               |
+| **Compliance**                  | ISO 27001, PCI DSS, NIS2, GDPR, DORA                                       |
+| **Support**                     | Technical debrief, Dev training, fix guidance, post-remediation testing    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What's the difference between WAPT and vulnerability scan?
+WAPT is an advanced manual test that simulates a real hacker attack. Vulnerability scan is automated and often superficial.
+
+### Does ISGroup also test APIs and application logic?
+Yes. It includes testing on APIs, sessions, SSO, ACL, authorization logic and privilege escalation.
+
+### Is WAPT mandatory?
+It's recommended or required by NIS2, PCI DSS, ISO 27001 and frameworks like OWASP ASVS.
+
+### How much does it cost?
+From ~$5,000 for simple applications up to over $20,000 for complex or high-exposure environments.
+
+### Does ISGroup provide remediation support?
+Yes. It includes remediation calls, patch validation and technical training.
