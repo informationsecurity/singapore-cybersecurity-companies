@@ -78,3 +78,37 @@ TIM proposes Active Directory and Windows systems assessment on TIM infrastructu
 
 **Limitation:** Service tied to the TIM ecosystem; less suitable for hybrid multicloud environments.
 
+### 10. [EXEEC](https://exeec.com/): Advanced cybersecurity technology distributor
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical approach**          | Manual, attacker-based, escalation path analysis                           |
+| **Components tested**           | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID      |
+| **Vulnerabilities detected**    | Kerberoasting, Pass-the-Hash, misconfigurations, stored credentials       |
+| **Output**                      | Technical + executive report, PoC, roadmap, remediation support           |
+| **Compliance**                  | ISO/IEC 27001, ACN, NIS2, PCI DSS, DORA                                   |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Windows Security Assessment?
+It's an in-depth evaluation of Windows, AD, M365 environment security, aimed at identifying real vulnerabilities and reducing the attack surface.
+
+### Does ISGroup also simulate real attacks?
+Yes. It uses Red Teaming techniques to identify escalation, persistence, and lateral movements.
+
+### Is it useful for compliance?
+Yes. It provides technical evidence and roadmaps for ISO 27001, NIS2, ACN, DORA, PCI DSS.
+
+### How much does it cost?
+From ~$4,000 to over $15,000, based on complexity and domain size.
+
+### How long does the assessment take?
+From 5 to 10 days, with technical sessions, debriefing, and post-remediation support.
