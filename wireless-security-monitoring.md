@@ -78,3 +78,39 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 |--------------------------------|-----------------------------------------------------------------------------|
 | **Technical competencies and certifications** | ISO 27001, CWNA/CWSP, experience with Wi-Fi 6, OT/IoT                      |
 | **Adopted methodologies**           | Passive monitoring, WIPS/WIDS, threat intelligence                           |
+| **Target clientele type**  | SMEs, enterprise, industry, government, retail, healthcare          |
+| **Support, SLA, reporting quality** | Real-time alerts, dashboards, escalation, technical/compliance-ready reports |
+| **Price, flexibility and scalability** | SME packages vs enterprise projects, transparent pricing, subscription models |
+| **Reputation, use cases, sectors served** | References, projects in healthcare, industrial, financial contexts          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Wireless Security Monitoring?
+Wireless Security Monitoring is the process of continuously monitoring wireless networks to detect and prevent unauthorized access and security threats.
+
+### When and why is it necessary?
+It's necessary when you want to protect sensitive data transmitted over wireless networks and ensure operational continuity.
+
+### What is the average cost?
+The average cost varies based on network complexity and required services, but is typically competitive compared to the risks mitigated.
+
+### How do you choose the right provider?
+Choose by evaluating technical competencies, certifications, support offered and ability to customize solutions.
+
+### What are the important certifications?
+Certifications such as ISO 27001, SOC 2 and wireless security specific ones (CWNA, CWSP) are important to ensure service quality.
+
+### What are the advantages of a proactive monitoring approach?
+A proactive approach allows detecting and mitigating threats before they cause damage, improving overall network security.
+
+### How does AI technology influence Wireless Security Monitoring?
+AI technology improves threat detection and behavioral analysis, making monitoring more effective and predictive.
+
+### What are the future trends in Wireless Security Monitoring?
+Future trends include adoption of Zero Trust architectures, integration with cloud solutions and use of advanced behavioral analysis.
+
+### How to ensure regulatory compliance in Wireless Security Monitoring?
+Regulatory compliance is ensured by adopting solutions that comply with standards like GDPR and NIS2 and implementing adequate security practices.
+
+### What are the risks of not implementing a Wireless Security Monitoring system?
+Risks include unauthorized access, loss of sensitive data and operational disruptions, which can have serious financial and reputational consequences.
